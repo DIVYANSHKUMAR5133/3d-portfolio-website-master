@@ -1,70 +1,141 @@
-# Getting Started with Create React App
+# 🚀 3D Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
+![Three.js](https://img.shields.io/badge/Three.js-3D-black?logo=three.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-## Available Scripts
+A modern and interactive **3D Portfolio Website** built using **React.js** and **Three.js**. This portfolio showcases projects, technical skills, and contact information with smooth animations and an immersive user experience.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📸 Preview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+> Add a screenshot or GIF here
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```text
+📁 assets/
+    └── preview.png
+```
 
-### `npm test`
+```md
+![Portfolio Preview](./assets/preview.png)
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## ✨ Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- 🎨 Modern Responsive Design
+- 🌍 Interactive 3D Models
+- ⚡ Smooth Animations
+- 📱 Mobile Friendly
+- 💼 Project Showcase
+- 👨‍💻 Skills Section
+- 📞 Contact Form
+- 🚀 Fast Performance
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠 Tech Stack
 
-### `npm run eject`
+| Technology | Purpose |
+|------------|---------|
+| ⚛ React.js | Frontend |
+| 🎯 Three.js | 3D Graphics |
+| 🎮 React Three Fiber | 3D Rendering |
+| 💅 CSS | Styling |
+| ✨ Framer Motion | Animations |
+| 📦 npm | Package Manager |
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📂 Project Structure
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+src
+├── assets
+├── components
+├── constants
+├── pages
+├── styles
+├── App.js
+└── index.js
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## ⚙ Installation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Clone the repository
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+git clone https://github.com/DIVYANSHKUMAR5133/3d-portfolio-website-master.git
+```
 
-### Code Splitting
+Go into the project folder
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+cd 3d-portfolio-website-master
+```
 
-### Analyzing the Bundle Size
+Install dependencies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+npm install
+```
 
-### Making a Progressive Web App
+Run the project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+npm start
+```
 
-### Advanced Configuration
+The application will start at
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```
+http://localhost:3000
+```
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 📦 Build
 
-### `npm run build` fails to minify
+```bash
+npm run build
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## 🚀 Deployment
+
+Deploy easily on
+
+- ▲ Vercel
+- Netlify
+- GitHub Pages
+
+---
+
+## 📬 Contact
+
+**Divyansh Kumar**
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/divyanshkumar5133/)
+
+🐙 GitHub:[ github.com/DIVYANSHKUMAR5133
+Profile](https://github.com/DIVYANSHKUMAR5133)
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to **Star ⭐ the repository**.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
